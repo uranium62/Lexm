@@ -1,0 +1,11 @@
+{
+  "name": "lexm",
+  "version": "0.0.1",
+  "description": "Lexm syntax analizer",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Melnik Alexander | moris912@gmail.com",
+  "license": "MIT"
+}
